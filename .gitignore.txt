@@ -1,0 +1,22 @@
+Arquivos de usuário e configurações específicas do Visual Studio
+
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+Arquivos de compilação
+
+[Bb]in/
+[Oo]bj/
+
+Arquivos do VS
+
+.vs/
+*.csproj.user
+*.vcxproj.user
+
+Outros
+
+*.nupkg
+*.DS_Store

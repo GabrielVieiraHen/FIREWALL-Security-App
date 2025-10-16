@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36603.0 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FIREWALL", "FIREWALL\FIREWALL.csproj", "{5CACE4AD-8F1D-4C3F-8980-D7C07217056D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirewallService", "FirewallService\FirewallService.csproj", "{BC1E2E9B-23FD-40A4-9991-9E8F1FB42B0B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5CACE4AD-8F1D-4C3F-8980-D7C07217056D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CACE4AD-8F1D-4C3F-8980-D7C07217056D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CACE4AD-8F1D-4C3F-8980-D7C07217056D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CACE4AD-8F1D-4C3F-8980-D7C07217056D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC1E2E9B-23FD-40A4-9991-9E8F1FB42B0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC1E2E9B-23FD-40A4-9991-9E8F1FB42B0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC1E2E9B-23FD-40A4-9991-9E8F1FB42B0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC1E2E9B-23FD-40A4-9991-9E8F1FB42B0B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E74BA66-AA60-43AD-831A-CEDB5C5B51C2}
+	EndGlobalSection
+EndGlobal
